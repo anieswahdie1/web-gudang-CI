@@ -1,0 +1,7 @@
+Untuk Admin
+username : admin
+password : admin
+
+Untuk Client
+username : husni
+password : 123husni
